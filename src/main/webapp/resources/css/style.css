@@ -1,0 +1,34 @@
+body{
+	background-color: #f1f1f3;
+}
+body.home{
+background:url('../images/bgimg2.jpg');
+}
+div.sidebar{
+background-color: #262626;
+height:200px;
+}
+div.panel-group{
+background-color: #fff;
+}
+.header{
+background-color: #262626;
+padding:1.0em;
+}
+div.pull-right > a.link{
+color:#fff;
+}
+.input-group-btn:last-child > .btn, .input-group-btn:last-child > .btn-group{
+	background:#ff1a1a;
+}
+a.view{
+	color:#ff1a1a;
+}
+.content{
+	margin-bottom:15%;
+}
+.footer{
+	padding:2.0em;
+	background:#262626;
+	height:225px;
+}
