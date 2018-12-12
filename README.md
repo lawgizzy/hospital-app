@@ -1,1 +1,1 @@
-# Hospital-app Web-based project developed using Spring MVC 4.3.8/JSP/Maven and MySQL Database Management System for data storage.
+# Hospital-app is a Web-based project developed using Spring MVC 4.3.8/JSP/Maven and MySQL Database Management System for data storage. The app helps in registration of patients in a hospital, processing their payments and also generating receipts for payments. The use of JQuery enables the receipts to be downloaded or printed directly online if a printer is available.
